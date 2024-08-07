@@ -12,4 +12,6 @@
 
 ##### git pull -> significa dois comandos git fetch e git merge
 
-![](head-gif.gif)
+##### git log -> Acessa o histórico dos commits
+
+![]()
