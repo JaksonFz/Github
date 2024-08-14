@@ -13,3 +13,5 @@
 ##### git pull -> significa dois comandos git fetch e git merge
 
 ##### git log -> Acessa o histórico dos commits
+
+##### git -a v1.0 -m "Versão 1.0" -> Cria uma tag para marcar o próximo commit
